@@ -1,0 +1,1 @@
+The Fast Fourier Transform (FFT) is an efficient algorithm to compute the Discrete Fourier Transform (DFT) and its inverse. The DFT is a mathematical technique used to transform a signal from its original time domain into a representation in the frequency domain. And i have used the C language for implementing the Algorithm  .
